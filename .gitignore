@@ -1,2 +1,7 @@
-# Files and folders will be ignored from being committed to github
+# Files and folders here will be ignored from being committed to github
+
+# References
+# https://www.pluralsight.com/guides/how-to-use-gitignore-file
+
 node_modules
+*.jpg
